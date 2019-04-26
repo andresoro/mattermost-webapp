@@ -188,6 +188,7 @@ export const ModalIdentifiers = {
     EMAIL_INVITE: 'email_invite',
     INTERACTIVE_DIALOG: 'interactive_dialog',
     ADD_GROUPS_TO_TEAM: 'add_groups_to_team',
+    MANAGE_TEAM_GROUPS: 'manage_team_groups',
 };
 
 export const UserStatuses = {
